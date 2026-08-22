@@ -2,10 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
-
+* **Name**: LOHINI S
+* **Register Number**: 212225240079
+* **Date of Submission**: 22-08-2026
 ---
 
 ## Objective
@@ -92,17 +91,6 @@ Monitor the EC2 instance using the Monitoring tab. Observe metrics such as CPU u
 
 Terminate the EC2 instance after completing the experiment to avoid unnecessary AWS charges.
 
----
-
-## Workflow (Student Explanation)
-
-(Write the steps you followed in your own words)
-
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
 
 ---
 
@@ -110,19 +98,22 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ### Screenshot 1: EC2 Dashboard / Instance List
 
-(Insert Screenshot Here)
+<img width="926" height="951" alt="image" src="https://github.com/user-attachments/assets/452f13c7-f791-4029-820b-a737b6b949fd" />
+
 
 ---
 
 ### Screenshot 2: SSH Connection to Instance
 
-(Insert Screenshot Here)
+
+<img width="946" height="887" alt="image" src="https://github.com/user-attachments/assets/b17b8882-fb3a-440a-a389-a88664001a51" />
 
 ---
 
 ### Screenshot 3: Instance Monitoring / Status
 
-(Insert Screenshot Here)
+<img width="950" height="902" alt="image" src="https://github.com/user-attachments/assets/89f805dd-1e03-407e-b128-a1d137eea6be" />
+
 
 ---
 
